@@ -7,7 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/__qje__
                       successaje7@gmail.com
-- 😄 Pronouns: He/His/Him
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=successaje)](https://git.io/streak-stats)
 
