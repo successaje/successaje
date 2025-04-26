@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Software and Blockchain Developments
-- 👨‍💻 Co-founder of [KawaK](https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/)
+- 🔭 I’m currently working on Bitcoin, Ethereum, ICP
+- 👨‍💻 Co-founder of [KawaK](https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/), [Gamebloc](https://gamebloc.app)
 - 🌱 I’m very interested in Blockchain related matters
 - 👯 I’m looking to collaborate on a project relating to Software and Blockchain Development
 - 💬 Ask me about anything
