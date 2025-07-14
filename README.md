@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Bitcoin, Ethereum, ICP
+- 🔭 I’m currently working on Ethereum, ICP, ZetaChain and some few EVM Compatible chains
 - 👨‍💻 Co-founder of [KawaK](https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/), [Gamebloc](https://gamebloc.app)
 - 🌱 I’m very interested in Blockchain related matters
 - 👯 I’m looking to collaborate on a project relating to Software and Blockchain Development
